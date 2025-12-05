@@ -10,7 +10,7 @@
     { "src": "/hanifpass", "dest": "/hanifpass.js" },
     { "src": "/farhan", "dest": "/farhan.js" },
     { "src": "/farhanpass", "dest": "/farhanpass.js" },
-    { "src": "/zubair", "dest": "/zubair.js" },
-    { "src": "/zubairpass", "dest": "/zubairpass.js" }
+    { "src": "/salman", "dest": "/salman.js" },
+    { "src": "/salmanpass", "dest": "/salmanpass.js" }
   ]
 }
